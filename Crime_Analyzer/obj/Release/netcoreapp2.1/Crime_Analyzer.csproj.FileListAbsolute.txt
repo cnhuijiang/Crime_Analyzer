@@ -1,0 +1,11 @@
+/Users/jimmy/Projects/Crime_Analyzer/Crime_Analyzer/bin/Release/netcoreapp2.1/Crime_Analyzer.deps.json
+/Users/jimmy/Projects/Crime_Analyzer/Crime_Analyzer/bin/Release/netcoreapp2.1/Crime_Analyzer.runtimeconfig.json
+/Users/jimmy/Projects/Crime_Analyzer/Crime_Analyzer/bin/Release/netcoreapp2.1/Crime_Analyzer.runtimeconfig.dev.json
+/Users/jimmy/Projects/Crime_Analyzer/Crime_Analyzer/bin/Release/netcoreapp2.1/Crime_Analyzer.dll
+/Users/jimmy/Projects/Crime_Analyzer/Crime_Analyzer/bin/Release/netcoreapp2.1/Crime_Analyzer.pdb
+/Users/jimmy/Projects/Crime_Analyzer/Crime_Analyzer/obj/Release/netcoreapp2.1/Crime_Analyzer.csproj.CoreCompileInputs.cache
+/Users/jimmy/Projects/Crime_Analyzer/Crime_Analyzer/obj/Release/netcoreapp2.1/Crime_Analyzer.AssemblyInfoInputs.cache
+/Users/jimmy/Projects/Crime_Analyzer/Crime_Analyzer/obj/Release/netcoreapp2.1/Crime_Analyzer.AssemblyInfo.cs
+/Users/jimmy/Projects/Crime_Analyzer/Crime_Analyzer/obj/Release/netcoreapp2.1/Crime_Analyzer.dll
+/Users/jimmy/Projects/Crime_Analyzer/Crime_Analyzer/obj/Release/netcoreapp2.1/Crime_Analyzer.pdb
+/Users/jimmy/Projects/Crime_Analyzer/Crime_Analyzer/obj/Release/netcoreapp2.1/Crime_Analyzer.csprojAssemblyReference.cache

@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{CC9FF801-072C-412F-A1DB-C231F1A79261}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Crime_Analyzer/Program.cs">
+    <Files>
+      <File FileName="Crime_Analyzer/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Crime_Analyzer" expanded="True">
+            <Node name="Crime_Analyzer" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Crime__Analyzer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
